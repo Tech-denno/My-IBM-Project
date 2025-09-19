@@ -16,3 +16,8 @@ Visualized closing stock prices and revenue trends using **Plotly** for interact
 - **plotly.io**: controlling rendering/display of plots within Jupyter environment.  
 ### Data Source
 - **IBM / Coursera Data Science Project**
+### Analysis
+- Tesla Graph
+<img width="1336" height="635" alt="Tesla_stock_gragh" src="https://github.com/user-attachments/assets/498fba5a-a58a-4dd0-a099-5294e1c587e5" />
+- GameStop Graph
+<img width="1340" height="635" alt="GameStop_graph" src="https://github.com/user-attachments/assets/cd309d84-6cc1-42c4-ba74-04e65f6271a6" />
